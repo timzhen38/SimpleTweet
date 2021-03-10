@@ -39,7 +39,6 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 I tried to replace the SimpleTweet title with a twitter logo but I was not able to do it without it being off center
 
 ## Open-source libraries used
